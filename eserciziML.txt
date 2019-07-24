@@ -1,0 +1,36 @@
+Esercizi ML:
+1) Lez3: Implement polynomial regression using the Ridge Regression method
+available in scikit-learn, see sklearn.linear model.Ridge() and
+look at the behavior of the solution when changing the parameter a; --> fatto
+
+2) Lez5: Implementazione in Python dell’algoritmo Find-S --> fatto
+
+*3) Lez5: Implementazione in Python dell’algoritmo Candidate-Elimination
+
+*4) Lez7: Confrontare la versione di alberi di decisione utilizzata nel software
+sklearn con la teoria vista a lezione. --> fatto
+
+5) Lez8: Implementare l’algoritmo Perceptron. --> fatto, vedere se implementarne una versione che utilizza scikit-learn --> fatto anche questo
+
+6) Lez9: Implementare ottimizzazione regola Delta con attivazione
+lineare/sigmoidale. --> fatti entrambi
+
+7) Lez13: Provare a preprocessare il dataset TITANIC disponibile su kaggle.
+Fissato un modello predittivo (per esempio SVM, k-nn, ecc.)
+verificare se ci sono variazioni significative nell’accuracy in predizione. --> fatto
+
+8) Creare un dataset di regressione di grosse dimensioni e dimostrare
+empiricamente che, prendendo la media dei modelli ottenuti con p
+grande e training set relativamente piccoli, siamo in grado di
+abbattere la varianza e quindi di migliorare notevolmente le
+prestazioni. Perché tale metodologia non può essere usata in realtà?
+come potremmo ridurre la varianza dei modelli anche disponendo di
+training set piccoli? --> fatto
+
+9) consegnare confronto lineare/sigmoidale --> fatto e da consegnare, da rivedere con Galli
+
+10) guardare alberi di galli e consegnare --> capire l'esercizio e consegnare --> capio un casso
+
+11) fare naive bayes
+
+12) fare find-s probabilistico --> fatto

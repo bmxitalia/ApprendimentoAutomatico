@@ -1,0 +1,28 @@
+dati inutili sono id, name e ticket
+
+donne sopravvisute 233/314 (74%) le donne sono state privilegiate -> sesso dato interessante
+uomini sopravvisuti 109/577 (19%)
+
+minorenni sopravvisuti 113/290 (39%)
+adulti sopravvisuti 228/593 (39%)
+anziani sopravvisuti 1/8 (16%) -> sembra essere irrilevante il fatto di essere minorenni, più interessante se over 60 -> utilizzare binarizer
+
+1 classe sopravvisuti 136/216 (63%)
+2 classe sopravvisuti 87/184 (47%)
+3 classe sopravvisuti 119/491 (24%) -> sembra essere interessante sapere per le prime due classi, serve un modo per dar più valore alla prima classe
+
+imbarco C sopravvisuti 93/168 (55%)
+imbarco S sopravvisuti 217/644 (34%)
+imbarco Q sopravvisuti 30/77 (39%%) -> interessa sapere se è stato imbarcato a C o meno
+
+prezzo > 100 sopravvisuti 39/53 (74%)
+prezzo < 70 sopravisuti 266/786 (34%) -> interessa sapere se hanno speso più di 100 dollari per il biglietto
+
+numero coppie sopravvisute 132/283 (47%)
+numero single sopravvisuti 210/608 (35%) -> più probabile che siano sopravvisute coppie
+
+numero sopravvisuti con figli/genitori 109/213 (51%)
+numero sopravvisuti senza figli/genitori 233/678 (34%) -> più probabile sopravvivere se si hanno genitori o figli a bordo
+
+idea: trasformo tutti i dati e poi li metto tutti in relazione tramite onehot encoding
+
